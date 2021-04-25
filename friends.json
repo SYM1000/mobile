@@ -1,8 +1,8 @@
 [
-	{"name" : "Ely", "hobby" : "Guns", "age" : "23", "phone" : "1234567890", "address" : "El Paso"},
-	{"name" : "Eugene", "hobby" : "Cars", "age" : "23", "phone" : "1234567890", "address" : "Orlando"},
-	{"name" : "Daniela", "hobby" : "Paint", "age" : "21", "phone" : "1234567890", "address" : "Monterrey"},
-	{"name" : "Cooper", "hobby" : "Poker", "age" : "22", "phone" : "1234567890", "address" : "San Antonio"},
-	{"name" : "Alicia", "hobby" : "Dance", "age" : "21", "phone" : "1234567890", "address" : "Guadalajara"},
-	{"name" : "Eliot", "hobby" : "Rapping", "age" : "22", "phone" : "1234567890", "address" : "San Francisco"}
+{"name" : "Ely", "hobby" : "Guns", "age" : "23", "phone" : "1234567890", "address" : "El Paso"},
+{"name" : "Eugene", "hobby" : "Cars", "age" : "23", "phone" : "1234567890", "address" : "Orlando"},
+{"name" : "Daniela", "hobby" : "Paint", "age" : "21", "phone" : "1234567890", "address" : "Monterrey"},
+{"name" : "Cooper", "hobby" : "Poker", "age" : "22", "phone" : "1234567890", "address" : "San Antonio"},
+{"name" : "Alicia", "hobby" : "Dance", "age" : "21", "phone" : "1234567890", "address" : "Guadalajara"},
+{"name" : "Eliot", "hobby" : "Rapping", "age" : "22", "phone" : "1234567890", "address" : "San Francisco"}
 ]
